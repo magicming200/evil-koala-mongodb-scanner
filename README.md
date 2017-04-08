@@ -1,6 +1,8 @@
 # mongodb-scanner
 邪恶考拉mongodb空口令扫描器
 
+依赖库：pymongo
+
 使用方式：python mongodb-scanner.py -h ip -p port -m 100
 
 -h 必须输入参数，支持ip(192.168.1.1)，ip段（192.168.1），ip范围指定（192.168.1.1-192.168.5.100）,ip列表文件（ip.txt）。
