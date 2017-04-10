@@ -3,6 +3,7 @@
 
 """
 @software: 邪恶考拉mongodb空口令扫描器 v1.0
+@site: https://github.com/magicming200
 @author: magicming
 """
 
